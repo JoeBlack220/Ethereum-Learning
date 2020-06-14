@@ -1,0 +1,10 @@
+# ignore node related files
+**/node_modules
+package.json
+package-lock.json
+
+# ignore private data
+Address
+
+# ignore mac os file system stuff
+.DS_STORE
