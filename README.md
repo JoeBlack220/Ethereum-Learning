@@ -8,11 +8,11 @@
 
 ### inbox
 - An application that can set and return a specific message.
-- Link:
+- Link: https://github.com/JoeBlack220/Ethereum-Learning/tree/master/projects/inbox
 ### lottery
 - An application that enables people to buy lottery and the manager to pick a winner.
-- Link:
+- Link: https://github.com/JoeBlack220/Ethereum-Learning/tree/master/projects/lottery
 ### kickstart
 - An application that allow investors to supervise where their money goes.
 - This application has front-end for user to interact with their contract using browser.
-- Link:
+- Link: https://github.com/JoeBlack220/Ethereum-Learning/tree/master/projects/kickstart
